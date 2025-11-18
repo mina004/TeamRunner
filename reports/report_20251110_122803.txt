@@ -1,0 +1,83 @@
+FINAL REPORT — 2025-11-10T12:28:03
+================================================================================
+
+--- customers ---
+{
+  "team": "customers",
+  "status": "simulated",
+  "workbook": "C:\\Users\\ashfa\\Openpyxl_Tkinter\\synthesized_company_data.xlsx",
+  "records_processed": 20,
+  "timestamp": "2025-11-10T12:27:59"
+}
+
+--- vendors ---
+{
+  "team": "vendors",
+  "status": "simulated",
+  "workbook": "C:\\Users\\ashfa\\Openpyxl_Tkinter\\synthesized_company_data.xlsx",
+  "records_processed": 30,
+  "timestamp": "2025-11-10T12:27:59"
+}
+
+--- items ---
+{
+  "team": "items",
+  "status": "simulated",
+  "workbook": "C:\\Users\\ashfa\\Openpyxl_Tkinter\\synthesized_company_data.xlsx",
+  "records_processed": 40,
+  "timestamp": "2025-11-10T12:28:00"
+}
+
+--- invoices ---
+{
+  "team": "invoices",
+  "status": "simulated",
+  "workbook": "C:\\Users\\ashfa\\Openpyxl_Tkinter\\synthesized_company_data.xlsx",
+  "records_processed": 50,
+  "timestamp": "2025-11-10T12:28:00"
+}
+
+--- payments ---
+{
+  "team": "payments",
+  "status": "simulated",
+  "workbook": "C:\\Users\\ashfa\\Openpyxl_Tkinter\\synthesized_company_data.xlsx",
+  "records_processed": 60,
+  "timestamp": "2025-11-10T12:28:01"
+}
+
+--- purchase orders ---
+{
+  "team": "purchase orders",
+  "status": "simulated",
+  "workbook": "C:\\Users\\ashfa\\Openpyxl_Tkinter\\synthesized_company_data.xlsx",
+  "records_processed": 70,
+  "timestamp": "2025-11-10T12:28:01"
+}
+
+--- bills ---
+{
+  "team": "bills",
+  "status": "simulated",
+  "workbook": "C:\\Users\\ashfa\\Openpyxl_Tkinter\\synthesized_company_data.xlsx",
+  "records_processed": 80,
+  "timestamp": "2025-11-10T12:28:02"
+}
+
+--- journal entries ---
+{
+  "team": "journal entries",
+  "status": "simulated",
+  "workbook": "C:\\Users\\ashfa\\Openpyxl_Tkinter\\synthesized_company_data.xlsx",
+  "records_processed": 90,
+  "timestamp": "2025-11-10T12:28:02"
+}
+
+--- general ledger ---
+{
+  "team": "general ledger",
+  "status": "simulated",
+  "workbook": "C:\\Users\\ashfa\\Openpyxl_Tkinter\\synthesized_company_data.xlsx",
+  "records_processed": 100,
+  "timestamp": "2025-11-10T12:28:03"
+}

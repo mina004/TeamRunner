@@ -1,0 +1,74 @@
+FINAL REPORT — 2025-10-22T13:24:20
+================================================================================
+
+--- customers ---
+{
+  "team": "customers",
+  "status": "simulated",
+  "records_processed": 20,
+  "timestamp": "2025-10-22T13:24:16"
+}
+
+--- vendors ---
+{
+  "team": "vendors",
+  "status": "simulated",
+  "records_processed": 30,
+  "timestamp": "2025-10-22T13:24:16"
+}
+
+--- items ---
+{
+  "team": "items",
+  "status": "simulated",
+  "records_processed": 40,
+  "timestamp": "2025-10-22T13:24:17"
+}
+
+--- invoices ---
+{
+  "team": "invoices",
+  "status": "simulated",
+  "records_processed": 50,
+  "timestamp": "2025-10-22T13:24:17"
+}
+
+--- payments ---
+{
+  "team": "payments",
+  "status": "simulated",
+  "records_processed": 60,
+  "timestamp": "2025-10-22T13:24:18"
+}
+
+--- purchase orders ---
+{
+  "team": "purchase orders",
+  "status": "simulated",
+  "records_processed": 70,
+  "timestamp": "2025-10-22T13:24:18"
+}
+
+--- bills ---
+{
+  "team": "bills",
+  "status": "simulated",
+  "records_processed": 80,
+  "timestamp": "2025-10-22T13:24:19"
+}
+
+--- journal entries ---
+{
+  "team": "journal entries",
+  "status": "simulated",
+  "records_processed": 90,
+  "timestamp": "2025-10-22T13:24:19"
+}
+
+--- general ledger ---
+{
+  "team": "general ledger",
+  "status": "simulated",
+  "records_processed": 100,
+  "timestamp": "2025-10-22T13:24:20"
+}

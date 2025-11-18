@@ -1,0 +1,26 @@
+{
+  "status": "success",
+  "generated_at": "2025-10-22T17:55:02.769964+00:00",
+  "added_terms": [
+    {
+      "record_id": "1",
+      "name": "Net 30",
+      "source": "quickbooks"
+    }
+  ],
+  "conflicts": [
+    {
+      "record_id": "12",
+      "excel_name": "Net 100",
+      "qb_name": "Net 90",
+      "reason": "name_mismatch"
+    },
+    {
+      "record_id": "9",
+      "excel_name": null,
+      "qb_name": "Due on receipt",
+      "reason": "missing_in_excel"
+    }
+  ],
+  "error": null
+}
