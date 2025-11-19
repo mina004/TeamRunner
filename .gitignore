@@ -1,0 +1,20 @@
+# Ignore PyInstaller output
+build/
+dist/
+*.spec
+
+# Ignore temporary files
+__pycache__/
+*.pyc
+
+# Ignore reports generated at runtime
+reports/*.json
+reports/report_*.txt
+
+# Ignore executables
+executables/*.exe
+
+# Ignore environment folders
+.venv/
+venv/
+env/
