@@ -11,7 +11,7 @@ A Python/Tkinter-based GUI that:
 
 > This project is part of the CS Project — Fall 2025 course and is designed to integrate multiple QuickBooks connector teams into one easy-to-use GUI.
 
-## ✨ Features
+##  Features
 
 - **GUI built with Tkinter**
   - Single main window  
@@ -53,7 +53,7 @@ A Python/Tkinter-based GUI that:
       `reports/report_YYYYmmdd_HHMMSS.txt`  
     - Temporary JSON files are deleted  
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 TeamRunner/
@@ -64,7 +64,7 @@ TeamRunner/
 └── reports/
 ```
 
-## 🚀 Running the Application
+## Running the Application
 
 ### Install optional dependency
 ```
@@ -81,7 +81,7 @@ python gui.py
 pyinstaller --onefile --windowed gui.py
 ```
 
-## 👤 Author
+## Author
 - **Student:** Minahil Rao  
 - **Course:** CS Project — Fall 2025  
 - **Organization:** Beulah Inc.
